@@ -13,5 +13,6 @@ function handleClick(e) {
 /* Write your implementation of displayMessage() */
 
 function greet(time) {
+ const hour = parseInt(timeStr, 10);
  
 }
